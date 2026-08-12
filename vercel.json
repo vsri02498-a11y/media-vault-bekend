@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/openrouter/chat/completions.js": {
+      "maxDuration": 60
+    }
+  }
+}
